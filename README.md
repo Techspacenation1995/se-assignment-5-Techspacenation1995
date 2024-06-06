@@ -7,8 +7,73 @@ Answer the following questions based on your understanding of the installation a
 
  Questions:
 
-1. Installation of VS Code:
+1. **Installation of VS Code**:
    - Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
+
+# Prerequisites
+
+1. **Operating System:**
+
+   - Ensure you are running Windows 11 or a compatible version of Windows. VS Code is compatible with Windows 7, 8, 10, and 11.
+
+2. **Administrator Access:**
+
+   - You may need administrator access to install VS Code.
+
+# Steps to Download and Install Visual Studio Code
+
+1. **Download Visual Studio Code**:
+
+   - Open your web browser and go to the Visual Studio Code download page.
+
+   - Click on the Windows download button to download the VS Code installer (.exe file).
+
+2. **Run the Installer**:
+
+   - Once the download is complete, locate the installer file in your Downloads folder or the specified download location.
+
+   - Double-click the installer file (VSCodeSetup.exe) to run it.
+
+3. **Start the Installation**:
+
+   - The Visual Studio Code Setup wizard will open. Click **Next** to proceed.
+
+4. **Accept the License Agreement**:
+
+   - Read and accept the license agreement. Check the box to accept the terms, then click Next.
+
+5. **Select Installation Location**:
+
+   - Choose the destination folder where you want to install VS Code. The default location is usually fine. Click Next.
+6. **Select Additional Tasks**:
+
+   - You can select additional tasks such as:
+      - Creating a desktop icon.
+      - Adding VS Code to your PATH (recommended for easier command-line usage).
+      - Registering VS Code as an editor for supported file types.
+   - Select the options you prefer and click Next.
+
+7. **Install VS Code**:
+
+   - Review your installation choices and click Install to begin the installation process.
+
+8. **Complete the Installation**:
+
+   - Once the installation is complete, you can choose to launch VS Code immediately by checking the appropriate box. Click Finish to complete the setup.
+
+# Post-Installation
+
+1. Launch Visual Studio Code:
+
+   - If you didn't choose to launch VS Code immediately, you can start it by double-clicking the desktop icon or searching for "Visual Studio Code" in the Start menu.
+
+2. Install Extensions (Optional):
+
+   - Once VS Code is running, you might want to install extensions to enhance its functionality. Click on the Extensions icon on the sidebar or press Ctrl+Shift+X to open the Extensions view. Search for and install extensions as needed.
+
+3. Set Up Your Development Environment:
+
+   - Configure settings and themes according to your preferences. You can access settings via File > Preferences > Settings or by pressing Ctrl+,.
 
 2. First-time Setup:
    - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
